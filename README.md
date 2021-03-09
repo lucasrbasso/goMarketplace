@@ -1,9 +1,8 @@
 ### goMarketplace
 
 <p align="center">
-  <img alt="goMarketplace" src="/github/goMarketplace.png" width="50%">
+  <img alt="goMarketplace" src="/go-marketplace.png" width="100%">
 </p>
-
 
 ### About 
 
