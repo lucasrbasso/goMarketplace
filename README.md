@@ -6,7 +6,7 @@
 
 ### About 
 
-Marketplace is an app made with React Native to simulate an online shop, where user can buy, add to cart, increment and decrement items
+Marketplace is an app made with React Native to simulate an online shop, where user can buy, add to cart, increment and decrement items.
 
 ### Stacks and how to open:
 
@@ -38,8 +38,6 @@ And for backend:
 ```js
   yarn json-server server.json -p 3333
 ```
-
-Do it for yourself [here](https://github.com/rocketseat-education/bootcamp-gostack-desafios/blame/master/desafio-fundamentos-react-native/README.md).
 
 Made with ♥ by **Lucas Basso** during **GoStack Bootcamp.**
 
